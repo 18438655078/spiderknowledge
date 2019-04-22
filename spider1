@@ -1,0 +1,2 @@
+1、提示报错"请求数据类型不正确，只支持类型：application/x-www-form-urlencoded。"
+    为 HTTP Headers 手动加上 Content-Type: application/x-www-form-urlencoded
